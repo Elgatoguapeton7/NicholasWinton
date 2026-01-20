@@ -1,0 +1,13 @@
+body  {
+    color: #1331BC;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    background-color: #174D74;
+}
+h1 {
+    color: #B32326;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+table {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #0F7F2B;
+}
